@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Bảo Anh à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Giữa 7 tỉ người 
+    Mà anh lại lạc vào ánh mắt của em
+    nụ cười của em
+    anh yêu em nhiều lắm BAnh à`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay mình xem phim cùng nhau nhé công chúa.',
     btnAccept: 'dạ anhh <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/vinhkhang.truong.gud2seeu/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
